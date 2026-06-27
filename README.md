@@ -1,3 +1,6 @@
+# ITS OUTDATED! YUCK!
+Go here: https://github.com/EugeneDevastator/Repaint_raylib
+
 # About
 This project hasnt been touched in a while, but donates can help it
 
